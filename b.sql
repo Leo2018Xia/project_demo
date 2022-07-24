@@ -3,3 +3,5 @@ select * from order ;
 select * from goods;
 
 select * from user ;
+
+select * form channel;
