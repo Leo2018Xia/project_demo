@@ -6,3 +6,5 @@ jhh
 测试checkout命令
 
 feature_createNewBranch 测试
+master 测试
+master 测试2
